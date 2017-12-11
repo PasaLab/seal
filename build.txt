@@ -1,0 +1,11 @@
+# maven install local jars 安装本地jar包
+
+mvn install:install-file -Dfile=chaski-0.0-latest.jar -DgroupId=edu.nju.pasalab -DartifactId=Chaski -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=jpfm-0.1-latest.jar -DgroupId=edu.nju.pasalab -DartifactId=jpfm -Dversion=1.0 -Dpackaging=jar
+
+# Install (To install the JARs in your ~/.m2/directory)
+ mvn clean install -DskipTests
+
+# Build a tarBall
+ mvn clean
+ mvn -DskipTests package assembly:single

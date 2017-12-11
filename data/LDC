@@ -1,0 +1,10 @@
+主席 : .	chairman : .	0-0 1-1 2-2	2 2 -1	NN : .
+主席 先生 , .	mr chairman , .	0-0 1-0 0-1 1-2 2-2 3-3	1 -1 1 1	NNP NNP , .
+主席 先生 , .	mr chairman , .	0-0 1-0 0-1 1-2 2-2 3-3	1 -1 1 1	NNP NNP , .
+委员 : .	members : .	0-0 1-1 2-2	2 2 -1	NNS : .
+. 主席 先生 , .	mr chairman , .	1-0 2-0 1-1 2-2 3-2 4-3	1 -1 1 1	NNP NNP , .
+克里 米亚新 政府 成立 .	new government formed in crimea .	1-0 2-1 1-2 3-2 1-3 0-4 1-4 4-5	1 2 -1 2 3 2	JJ NN VBD IN NN .
+a 组 : .	group a : .	1-0 0-1 2-2 3-3	1 3 3 -1	NNP NNP : .
+尼加拉瓜 总统 结束 访问 芬兰 .	nicaragua president ends visit to finland .	0-0 1-1 2-2 3-3 4-5 5-6	1 2 -1 2 2 4 2	NN NN VBZ NN TO VB .
+广州 成立 破产 法庭 .	bankruptcy court established in guangzhou .	2-0 3-1 1-2 0-4 4-5	1 2 -1 2 3 2	NNP NNP VBD IN NNP .
+萨拉热窝 机场 再次 关闭 .	sarajevo airport closed again .	0-0 1-1 3-2 2-3 4-4	1 2 -1 2 2	NN NN VBD RB .
